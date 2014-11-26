@@ -1,4 +1,4 @@
 My-drawings
 ===========
+my name is Jenya, i'm the human, i hate rap and assembler
 
-some of my scripts and other works
